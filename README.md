@@ -2,6 +2,8 @@
 
 This is my capstone project for MITxPro coding bootcamp. It does not have all of the functionality I would like, but it has Firebase authentication and stores user data on the database. 
 
+To run this application, download it, then in a terminal navigate to the project directy and enter "npm install" to install dependencies and get your node_modules file. Then enter "npm start" to start the React application on port 3000, then in another terminal window, type "npm run server," which will start up the server on port 8000.
+
 
 ## Getting Started with Create React App
 
