@@ -1,9 +1,9 @@
-## BadBank Capstone Project ##
+# BadBank Capstone Project 
 
 This is my capstone project for MITxPro coding bootcamp. It does not have all of the functionality I would like, but it has Firebase authentication and stores user data on the database. 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
